@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **laravel framework**
 
+- 👯 I’m looking to collaborate on **web developer**
+
 - 📫 How to reach me fbhr1112@gmail.com
 
 - ⚡ Fun fact **i think i am funny :D**
