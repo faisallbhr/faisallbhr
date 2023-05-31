@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **laravel framework**
 
-- 📫 How to reach me **@faisallbhr (Instagram)**
+- 📫 How to reach me fbhr1112@gmail.com
 
 - ⚡ Fun fact **i think i am funny :D**
 
