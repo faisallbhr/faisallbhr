@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**faisallbhr/faisallbhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>My name is Faisal Bahari, an undergraduate student in Informatics, Faculty of Computer Science, University of Jember. I have high interest and enthusiasm in learning new things, especially in the field of computer science. I have experience in web development, especially using React and Laravel frameworks, but I am more confident with my React skills. Currently I am studying machine learning at Bangkit Academy because I am interested in learning about it.</p>
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faisallbhr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faisallbhr) 
+---
+<p>Here's my tech stack and skills:</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faisallbhr&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+<!--Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
