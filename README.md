@@ -1,6 +1,6 @@
-### Hi there 👋
+<h2>Hi there 👋</h2>
 
-<p>My name is Faisal Bahari, an undergraduate student in Informatics, Faculty of Computer Science, University of Jember. I have high interest and enthusiasm in learning new things, especially in the field of computer science. I have experience in web development, especially using React and Laravel frameworks, but I am more confident with my React skills. Currently I am studying machine learning at Bangkit Academy because I am interested in learning about it.</p>
+<p>My name is Faisal Bahari, an undergraduate student in Informatics, Faculty of Computer Science, University of Jember. I have high interest and enthusiasm in learning new things, especially in the field of computer science. I have experience in web development, especially using the React and Laravel frameworks. Currently I am studying machine learning at Bangkit Academy because I am interested in learning about it.</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faisallbhr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faisallbhr) 
 ---
