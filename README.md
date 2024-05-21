@@ -1,4 +1,4 @@
-<h2>Hi there 👋 Welcome to My Art Codes Gallery</h2>
+<h2>Hi there 👋 Welcome to My Art Codes Gallery 🎨</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faisallbhr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faisallbhr) 
 ---
